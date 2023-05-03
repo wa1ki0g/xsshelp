@@ -23,6 +23,7 @@ Options:
 
 刚开始是用python写的，链接在这：https://github.com/wa1ki0g/xsshelp-py
 
-贴个图hhhhhhh：
 
-![image](https://user-images.githubusercontent.com/70200814/235882380-7dd95972-746e-4b59-b16c-4fa5e87b0731.png)
+贴个图，还是有点用的。hhhhhhh：
+
+<img width="597" alt="image" src="https://user-images.githubusercontent.com/70200814/235882741-99584577-b090-4821-b68b-501b502a82a3.png">
