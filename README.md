@@ -19,3 +19,6 @@ Options:
 
 <img width="1263" alt="image" src="https://user-images.githubusercontent.com/70200814/233852598-edb6fe52-1399-4c5e-98a4-0d1fad6b6019.png">
 
+
+
+刚开始是用python写的，链接在这：https://github.com/wa1ki0g/xsshelp-py
