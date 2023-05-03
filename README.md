@@ -22,3 +22,7 @@ Options:
 
 
 刚开始是用python写的，链接在这：https://github.com/wa1ki0g/xsshelp-py
+
+贴个图hhhhhhh：
+
+![image](https://user-images.githubusercontent.com/70200814/235882380-7dd95972-746e-4b59-b16c-4fa5e87b0731.png)
